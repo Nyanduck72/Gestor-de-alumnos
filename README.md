@@ -11,7 +11,7 @@ En la pestaña general se pueden "inscribir" alumnos a la escuela ingresando su 
 En la pestaña del profesor se puede agregar un alumno que ya esté inscrito a un grupo
 > El nombre del profesor y el nombre del grupo pueden ser editados modificando los valores dentro del arreglo **profes** en el archivo de javascript
 
-~~________________________________________________________________________________________________________________________________________________________~~
+~~_____________________________________________________________________________________________________________________________________~~
 # Student Manager
 This file serves as a way to practice everything learned about lists and array managment in javascript
 ## What does it do?
